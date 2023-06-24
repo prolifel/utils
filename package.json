@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "pdf2pic": "^2.2.1",
+    "pdfkit": "^0.13.0",
     "rimraf": "^5.0.1"
   }
 }
